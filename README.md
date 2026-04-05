@@ -110,7 +110,7 @@ Each finding is categorized with a severity level.
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/lpe-detector.git
+git clone https://github.com/arshad1312/PriviLens_Tool.git
 cd lpe-detector
 ```
 
